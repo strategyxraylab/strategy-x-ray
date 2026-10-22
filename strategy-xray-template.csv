@@ -1,0 +1,3 @@
+pnl,fees,spread_cost,risk_amount,symbol,entry_time,exit_time,direction
+120,3,2,50,EURUSD,2025-01-02 09:00,2025-01-02 10:00,long
+-60,3,2,50,EURUSD,2025-01-03 11:00,2025-01-03 12:00,short
